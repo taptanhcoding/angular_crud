@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "title": "a title 2",
+      "views": 0,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "title": "hj",
+      "views": 0,
+      "id": "70ce"
+    }
+  ],
+  "account": [
+    {
+      "username": "admin",
+      "password": 123,
+      "id": "317a"
+    }
+  ]
+}

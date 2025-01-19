@@ -1,0 +1,10 @@
+node_modules
+
+package-lock.json
+
+/curd_sv/node_modules
+/curd_sv/package-lock.json
+/curd_sv/.vscode
+
+/json_sv/node_modules
+/json_sv/package-lock.json
