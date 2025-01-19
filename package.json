@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"cd json_sv && npm start\" \"cd crud_sv && yarn start\""
+    "start": "concurrently \"cd json_sv && yarn start\" \"cd crud_sv && yarn start\"",
+    "install": "concurrently \"cd json_sv && yarn\" \"cd crud_sv && yarn\""
   },
   "keywords": [],
   "author": "",
